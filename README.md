@@ -38,10 +38,6 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	However, negative sentiments also has a significant chunk which various Government agencies, NGOs, etc can use to help boost the morale of the people and then
 -	In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
 
-### 📜 CREDITS:
-
-[Gaurav Malakar](https://github.com/gauravmalakar08) | [Anup A. Jambulkar](https://github.com/anup-anny) | [Ankit Walde](https://github.com/AnkitWalde) | [Anil Bhatt](https://github.com/anilbhatt-DataAnalyst) | [Vibhu Sharma](https://github.com/vbhsharma7)
-
 ### 📚 References
 Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
 
